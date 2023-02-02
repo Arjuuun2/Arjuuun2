@@ -81,7 +81,7 @@
 <a href="https://linkedin.com/in/arjun-vijay-4b3a38147" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="https://hashnode.com/@Arjun" target="_blank">
+<a href="https://hashnode.com/@Incogfolio" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/arjun" target="_blank">
