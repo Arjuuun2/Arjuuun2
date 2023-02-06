@@ -100,11 +100,11 @@
 
 
 ## Recent Blog Posts  
-  
-
+  <div align="center">
+<a href="https://incogfolio.hashnode.dev/nodeexpress-js-oracle-db-environment-setup" target="_blank" style="display: inline-block;"></a></div>
+<img src=https://img.shields.io/badge/blog-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=blog style="margin-bottom: 5px;" />
 <br/>  
-
-  
+ 
 
 <br/>  
 
